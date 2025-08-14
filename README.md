@@ -1,2 +1,2 @@
 # Mobile-Application-Development
-Android HandsOn,Assignments and Projects 
+Android HandsOn, Assignments and Projects 
